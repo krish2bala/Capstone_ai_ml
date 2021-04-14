@@ -1,7 +1,7 @@
 # Ml-The-Best-Classifier
 
 # capstone1
-Ai capstone
+AI capstone
 
 import time,os,re,csv,sys,uuid,joblib
 from datetime import date
